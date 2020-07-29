@@ -1,7 +1,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=idaszakdaniel&hide=issues&count_private=true">
 
-# <img width="40px" src="https://cdn0.iconfinder.com/data/icons/famous-character-vol-1-colored/48/JD-06-512.png" /> Hello there! 👋
+# <img width="40px" src="./assets/bob.png" /> Hello there! 👋
 
 <a href="">
   <img align="left" alt="Daniel's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -18,7 +18,7 @@ I'm an experienced React Native developer 📱</br>
 Master in Computer Science 🎓</br>
 Technical writing enthusiast  📖</br>
 Fan of multiplatform technologies and everything written in JavaScript
-<img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+<img width="20px" src="./assets/js.svg" />
 
 ## Check out my blogposts
 
